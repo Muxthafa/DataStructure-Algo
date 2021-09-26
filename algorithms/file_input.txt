@@ -1,0 +1,6 @@
+lion
+tiger
+goat
+ant
+elephant
+dog
